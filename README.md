@@ -4,7 +4,7 @@
 
 ## Alguns Insights:
 
-Uma visão geral temos as seguintes informações: Faturamento de $2.30 Milhões de dólares, Lucro de 286.40 Mil dólares, o Faturamento por Ano que teve uma leve queda de 2014 para 2015 mas continuou crescendo em 2016 e 2017, O Faturamento por Estado onde a Barra Verde mostra que o Estado teve Lucro e a Barra Vermelha mostra que o Estado teve Prejuízo, em seguida temos um mapa onde mostra o Lucro por Estado e está divido por Regiões( Central, East, South e West ), e por fim  temos o Faturamento por Produto. Além disso podemos filtrar por Ano e Estado, deixando nossa análise mais dinâmica.
+Em uma visão geral, temos as seguintes informações: Faturamento de $2.30 Milhões de dólares, Lucro de 286.40 Mil dólares, o Faturamento por Ano que teve uma leve queda de 2014 para 2015 mas continuou crescendo em 2016 e 2017, O Faturamento por Estado onde a Barra Verde mostra que o Estado teve Lucro e a Barra Vermelha mostra que o Estado teve Prejuízo, em seguida temos um mapa onde mostra o Lucro por Estado e está divido por Regiões( Central, East, South e West ), e por fim  temos o Faturamento por Produto. Além disso podemos filtrar por Ano e Estado, deixando nossa análise mais dinâmica.
 
 Agora vamos para alguns insights.
 Podemos observar que dos 3 estados que possuem maior faturamento, 1 deles apresenta prejuízo, que é o Texas. Entrando mais em detalhes vamos filtrar o estado do Texas para entender mais sobre os dados.
